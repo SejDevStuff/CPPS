@@ -1,0 +1,23 @@
+{
+  "name": "cpps",
+  "version": "1.0.0",
+  "description": "A club penguin private server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SejDevStuff/CPPS.git"
+  },
+  "author": "Sej and Teo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SejDevStuff/CPPS/issues"
+  },
+  "homepage": "https://github.com/SejDevStuff/CPPS#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prompt-sync": "^4.2.0"
+  }
+}
