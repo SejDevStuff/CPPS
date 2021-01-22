@@ -1,2 +1,3 @@
 # This would usually be ignored, but for the sake of ease during development, this is shown
 # database/
+node_modules/
